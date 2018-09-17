@@ -8,7 +8,8 @@
 * Server listen on port specified in the config.js file
 * Endpoint /hello returns a JSON message "Hello world RESTful API"
 * Rest of endpoints returns a 404 not Found with a message.
-* Fully migrated to ES6 syntax & Modular Design
+* Fully migrated to ES6 syntax
+* Modular Design & Promises
 * Ports: Staging 5000/5001 HTTP(S) | Production 9000/9001 HTTP(S)
 
 ### Usage:

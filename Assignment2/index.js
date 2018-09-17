@@ -1,5 +1,5 @@
 /*
- * Assignment 1 - Hello World Api
+ * Assignment 2 - Pizza-delivery company API
  * Main Logic
  */
 
@@ -13,6 +13,7 @@ const app = {};
 app.init = () => {
   // Start the server
   server.init();
+
 };
 
 // Self executing

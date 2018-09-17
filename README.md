@@ -21,4 +21,8 @@ Develop a system that takes inputs from the console, processes them, and writes 
 ### Hello World API - [Readme](https://github.com/Naxsel/Node.js-MasterClass/tree/master/Assignment1/README.md)
 
 ## Assignment 2
-###Pizza-delivery company API - [Readme](https://github.com/Naxsel/Node.js-MasterClass/tree/master/Assignment2/README.md)
+### Pizza-delivery company API - [Readme](https://github.com/Naxsel/Node.js-MasterClass/tree/master/Assignment2/README.md)
+
+---
+## NPM
+Section with the purpose of replicate all projects using the most relevant npm libraries to create a comparison.
